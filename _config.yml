@@ -3,3 +3,4 @@ description: insights, explorations, and funny things
 show_downloads: false
 google_analytics: G-W2EPKVX600
 theme: jekyll-theme-cayman
+excerpt_separator: "<!--more-->"
