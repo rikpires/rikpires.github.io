@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Latest Updates
-
 Welcome to my blog! Below you will find a chronological list of my recent posts.
+
+## Latest Updates
 
 <ul>
   {% for post in site.posts %}
