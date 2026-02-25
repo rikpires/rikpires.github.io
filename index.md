@@ -1,8 +1,11 @@
 ---
 layout: default
+custom_heading: "Latest Updates"
 ---
 
-## Latest
+# {{ page.custom_heading }}
+
+Welcome to my blog! Below you will find a chronological list of my recent posts.
 
 <ul>
   {% for post in site.posts %}
